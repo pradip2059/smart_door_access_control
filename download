@@ -1,0 +1,21 @@
+# Face datasets / generated models
+dataset/
+encodings.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# User demo videos
+demo/*.mp4
+demo/*.mov
+demo/*.m4v
+!demo/README.md
